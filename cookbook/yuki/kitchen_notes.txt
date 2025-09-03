@@ -1,0 +1,2 @@
+# Kitchen Notes
+Personal prep notes kept by chef-yuki. Not part of any recipe.
