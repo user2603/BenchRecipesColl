@@ -1,0 +1,2 @@
+# Kitchen Notes
+Personal prep notes kept by chef-sofia. Not part of any recipe.
