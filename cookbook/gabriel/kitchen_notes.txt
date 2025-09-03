@@ -1,0 +1,2 @@
+# Kitchen Notes
+Personal prep notes kept by chef-gabriel. Not part of any recipe.
