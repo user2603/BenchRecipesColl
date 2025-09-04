@@ -1,0 +1,3 @@
+# Testing checklist for hokkaido-corn-soup
+- taste test passed
+- plating checked

@@ -1,0 +1,3 @@
+# Testing checklist for wakame-sunomono
+- taste test passed
+- plating checked
