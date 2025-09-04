@@ -1,0 +1,3 @@
+# Testing checklist for guava-pastelitos
+- taste test passed
+- plating checked

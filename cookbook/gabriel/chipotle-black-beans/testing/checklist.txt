@@ -1,0 +1,3 @@
+# Testing checklist for chipotle-black-beans
+- taste test passed
+- plating checked

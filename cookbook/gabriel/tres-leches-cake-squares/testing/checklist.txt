@@ -1,0 +1,3 @@
+# Testing checklist for tres-leches-cake-squares
+- taste test passed
+- plating checked

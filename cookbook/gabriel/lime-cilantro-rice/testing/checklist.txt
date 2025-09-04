@@ -1,0 +1,3 @@
+# Testing checklist for lime-cilantro-rice
+- taste test passed
+- plating checked
