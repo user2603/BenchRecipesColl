@@ -1,0 +1,3 @@
+# Testing checklist for coconut-lime-dal
+- taste test passed
+- plating checked

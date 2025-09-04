@@ -1,0 +1,3 @@
+# Testing checklist for kadhai-paneer-toast
+- taste test passed
+- plating checked
