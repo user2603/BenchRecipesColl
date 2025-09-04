@@ -1,0 +1,3 @@
+# Testing checklist for olive-focaccia-sticks
+- taste test passed
+- plating checked
