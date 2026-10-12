@@ -1,0 +1,3 @@
+# Testing checklist for tahini-date-shake
+- taste test passed
+- plating checked
