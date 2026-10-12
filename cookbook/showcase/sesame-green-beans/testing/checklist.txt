@@ -1,0 +1,3 @@
+# Testing checklist for sesame-green-beans
+- taste test passed
+- plating checked
