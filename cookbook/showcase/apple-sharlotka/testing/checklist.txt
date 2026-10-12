@@ -1,0 +1,3 @@
+# Testing checklist for apple-sharlotka
+- taste test passed
+- plating checked
